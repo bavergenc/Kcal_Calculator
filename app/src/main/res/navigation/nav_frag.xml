@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_frag"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.malkinfo.navigationdrawar.ui.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home2" >
+        <action
+            android:id="@+id/action_home_to_idealWeight"
+            app:destination="@id/idealWeight" />
+        <action
+            android:id="@+id/action_home_to_details"
+            app:destination="@id/details" />
+        <action
+            android:id="@+id/action_home_to_profile"
+            app:destination="@id/profile" />
+        <action
+            android:id="@+id/action_home_to_fat"
+            app:destination="@id/idealFat" />
+    </fragment>
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.malkinfo.navigationdrawar.ui.BazalFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_bazal" />
+    <fragment
+        android:id="@+id/idealWeight"
+        android:name="com.malkinfo.navigationdrawar.ui.IdealKiloFragment"
+        android:label="Notification"
+        tools:layout="@layout/fragment_idealkilo" />
+
+    <fragment
+        android:id="@+id/details"
+        android:name="com.malkinfo.navigationdrawar.ui.BazalFragment"
+        android:label="Notification"
+        tools:layout="@layout/fragment_details" />
+    <fragment
+        android:id="@+id/idealFat"
+        android:name="com.malkinfo.navigationdrawar.ui.Fat"
+        android:label="Notification"
+        tools:layout="@layout/fragment_fat"/>
+</navigation>

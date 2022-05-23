@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/drawable/ic_contactus.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/drawable/ic_home.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/drawable/ic_notification.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/activity_details.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_bazal.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_details.xml" value="0.33" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_fat.xml" value="0.2807971014492754" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_home2.xml" value="0.30570652173913043" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_idealkilo.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_notification.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/fragment_profile.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/nav_drawar.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/nava_heder.xml" value="0.33" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/layout/recycler_row.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/menu/nav_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/mgkhnyldz/Desktop/NavigationDrawar-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
