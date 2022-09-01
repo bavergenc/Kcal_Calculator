@@ -18,4 +18,10 @@
 {"isim":"Ezogelin Çorbası","kcal":"95", "karb":"12","protein":"4","yağ":"2"},
 {"isim":"Tarhana Çorbası","kcal":"151", "karb":"12","protein":"5","yağ":"8"},
 {"isim":"Su Böreği","kcal":"756", "karb":"82","protein":"23","yağ":"36"},
-{"isim":"Tepsi Böreği","kcal":"375", "karb":"60","protein":"13","yağ":"11"}]
+{"isim":"Tepsi Böreği","kcal":"375", "karb":"60","protein":"13","yağ":"11"},
+{"isim":"Kıymalı Börek","kcal":"248", "karb":"28","protein":"9","yağ":"10"},
+{"isim":"Menemen","kcal":"177", "karb":"8","protein":"8","yağ":"12"},
+{"isim":"Mercimek Köftesi","kcal":"195", "karb":"25","protein":"6","yağ":"6"},
+{"isim":"Barbunya","kcal":"413", "karb":"41","protein":"23","yağ":"17"},
+{"isim":"Karnıyarık","kcal":"191", "karb":"8","protein":"11","yağ":"12"},
+{"isim":"Nohut","kcal":"285", "karb":"11","protein":"23","yağ":"16"}]
