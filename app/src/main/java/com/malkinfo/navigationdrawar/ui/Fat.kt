@@ -14,8 +14,6 @@ import java.lang.Math.log10
 class Fat : BaseFragment<FragmentFatBinding>(R.layout.fragment_fat) {
 
 
-
-
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 

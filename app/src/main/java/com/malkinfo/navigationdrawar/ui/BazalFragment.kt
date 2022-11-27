@@ -1,5 +1,6 @@
 package com.malkinfo.navigationdrawar.ui
 
+import android.graphics.Color
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -55,7 +56,7 @@ class BazalFragment : BaseFragment<FragmentBazalBinding>(R.layout.fragment_bazal
             }
         }
 
-
+        binding.hesaplaButton.setBackgroundColor(Color.WHITE)
         binding.hesaplaButton.setOnClickListener {
             if (switch1.isChecked) {
                 forWomen()

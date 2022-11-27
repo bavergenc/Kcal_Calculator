@@ -28,8 +28,6 @@ class HomeFragment : Fragment() {
 
 
 
-
-
         val list = ArrayList<CustomApp>()
 
         val deneme = CustomApp("Dukan Diyeti","İlk olarak 2000 yılında ortaya çıkan Dukan Diyeti, Fransız Hekim Pierre Dukan tarafından hazırlanmıştır. Dukan’a göre kilo vermenin anahtarının protein olduğu ve dışarıdan yağ tüketmek ile vücuttaki yağların yakılamayacağı belirtilmektedir. Dukan Diyeti Listesi teorilerine göre; vücut tükettiği proteini yakmak için daha fazla kalori harcarken, karbonhidrat ve yağı yakmak için çok az kalori harcar. Bu yüzden Dukan Diyeti protein ağırlıklı bir beslenme programıdır ve karbonhidrat kaynağı olarak başlangıçta sadece yulaf kepeğinin tüketilmesine izin verir."

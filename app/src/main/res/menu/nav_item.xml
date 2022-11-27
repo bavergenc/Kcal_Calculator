@@ -13,17 +13,17 @@
             <item
                 android:id="@+id/profile"
                 android:title="@string/BazalMetobolizma"
-                android:icon="@drawable/ic_profile"
+                android:icon="@drawable/basal"
                 />
             <item
                 android:id="@+id/idealWeight"
                 android:title="İdealKiloHesaplama"
-                android:icon="@drawable/ic_notification"
+                android:icon="@drawable/ideal_weigth"
                 />
             <item
                 android:id="@+id/idealFat"
                 android:title="YağOranıHesaplama"
-                android:icon="@drawable/ic_notification"
+                android:icon="@drawable/oil"
                 />
 
         </menu>
