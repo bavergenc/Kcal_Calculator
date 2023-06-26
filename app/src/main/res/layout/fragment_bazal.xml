@@ -135,7 +135,7 @@
             app:layout_constraintTop_toBottomOf="@+id/editTextLength" />
 
         <TextView
-            android:id="@+id/editTextNumber5"
+            android:id="@+id/sonuc"
             android:layout_width="86dp"
             android:layout_height="48dp"
             android:layout_marginStart="32dp"
@@ -155,25 +155,32 @@
             android:onClick="hesapla_button"
             android:text="Hesapla"
             android:drawableLeft="@drawable/calculator2"
-
             android:textColor="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.49"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/editTextNumber5" />
+            app:layout_constraintTop_toBottomOf="@+id/sonuc" />
+
+        <Button
+            android:id="@+id/kaydet_button"
+            android:layout_width="180dp"
+            android:layout_height="48dp"
+            android:drawableLeft="@drawable/baseline_check_24"
+            android:text="Kaydet"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hesapla_button" />
 
         <TextView
-            android:id="@+id/textView5"
-            android:layout_width="390dp"
-            android:layout_height="101dp"
-            android:layout_marginStart="4dp"
-            android:layout_marginTop="20dp"
-            android:text="BAZAL METOBOLİZMA, vücudun yalnızca yaşamsal fonksiyonları (vücudu sıcak tutma, nefes alma vb.) idame ettirmek için enerji kullanan metabolik sisteme verilen addır. Bazal metabolizma hızı kişilerin aktivite seviyelerine, yaşına ve cinsiyetine göre farklılık gösterir."
-            android:textColor="@color/black"
+            android:id="@+id/textViewResult"
+            android:layout_width="407dp"
+            android:layout_height="153dp"
+            android:gravity="center_horizontal"
+            android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/hesapla_button"
-            app:layout_constraintVertical_bias="0.269" />
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

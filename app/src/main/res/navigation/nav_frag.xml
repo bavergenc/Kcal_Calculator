@@ -22,6 +22,9 @@
         <action
             android:id="@+id/action_home_to_fat"
             app:destination="@id/idealFat" />
+        <action
+            android:id="@+id/action_home_to_profileFragment"
+            app:destination="@id/profileFragment" />
     </fragment>
     <fragment
         android:id="@+id/profile"
@@ -41,7 +44,12 @@
         tools:layout="@layout/fragment_details" />
     <fragment
         android:id="@+id/idealFat"
-        android:name="com.malkinfo.navigationdrawar.ui.Fat"
+        android:name="com.malkinfo.navigationdrawar.ui.FatFragment"
         android:label="Notification"
         tools:layout="@layout/fragment_fat"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.malkinfo.navigationdrawar.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>

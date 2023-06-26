@@ -1,17 +1,14 @@
 package com.malkinfo.navigationdrawar.ui
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
 import android.widget.Toast
 import com.malkinfo.navigationdrawar.R
 import com.malkinfo.navigationdrawar.databinding.FragmentFatBinding
 import java.lang.Math.log10
 
 
-class Fat : BaseFragment<FragmentFatBinding>(R.layout.fragment_fat) {
+class FatFragment : BaseFragment<FragmentFatBinding>(R.layout.fragment_fat) {
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

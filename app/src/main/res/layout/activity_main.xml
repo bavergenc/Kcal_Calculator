@@ -49,9 +49,6 @@
 
     </LinearLayout>
 
-
-
-    <!--add drawerlayout-->
     <include layout="@layout/nav_drawar"/>
 
 
